@@ -23,7 +23,7 @@ sections:
       Sourcing from around the world and particularity in Singapore, this list
       of resources should help you get a better understanding of Marblegum and
       what new owners would need to know.
-    image: images/avatar.png
+    image: /images/marble.jpg
     image_alt: test
   - title: Recent Posts
     section_id: posts
