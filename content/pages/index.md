@@ -30,6 +30,11 @@ sections:
     type: section_posts
     has_more_link: true
     more_link_text: Read more
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    has_more_link: true
+    more_link_text: lorem-ipsum
+    type: section_posts
 seo:
   title: Stackbit Vanilla Theme
   description: The preview of the Vanilla theme
