@@ -4,7 +4,8 @@ sections:
   - section_id: hero
     type: section_hero
     title: Dive into the world of Marblegum
-    subtitle: '### This is a super-cool hero subhead.'
+    subtitle: |
+      ### Learn what is required and how it works
     image: images/avatar.png
     image_alt: Author avatar
   - title: Text
