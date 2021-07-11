@@ -1,5 +1,7 @@
 ---
-subtitle: A cautionary tale about Magna etiam
+subtitle: >-
+  Knowing the difference between Marble Gum vs Grout shield vs Acrylic/Epoxy
+  Grout
 excerpt: >-
   Phasellus in ante vitae nibh porttitor tempus vitae ut ante. Vestibulum
   blandit dolor elementum viverra. Sed quat a diam, aliquet tempus felis.
