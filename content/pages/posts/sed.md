@@ -1,8 +1,8 @@
 ---
 title: Marble gum grout reviews
 excerpt: >-
-  Phasellus in ante vitae nibh porttitor tempus vitae ut ante. Vestibulum
-  blandit dolor elementum viverra.
+  Now, if you’re still contemplating on doing marble gum for your living room,
+  have a read below and see what other homeowners who had done it have to say.
 date: '2016-08-28'
 thumb_img_path: images/art.svg
 thumb_img_alt: Geometric pattern
