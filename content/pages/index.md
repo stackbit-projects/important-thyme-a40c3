@@ -33,7 +33,7 @@ sections:
   - title: lorem-ipsum
     section_id: lorem-ipsum
     has_more_link: true
-    more_link_text: lorem-ipsum
+    more_link_text: Read more
     type: section_posts
 seo:
   title: Stackbit Vanilla Theme
