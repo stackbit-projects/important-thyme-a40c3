@@ -11,10 +11,6 @@
                 "url": "/"
             },
             {
-                "label": "Generic",
-                "url": "/generic/"
-            },
-            {
                 "label": "Elements",
                 "url": "/elements/"
             },
