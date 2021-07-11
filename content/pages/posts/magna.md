@@ -25,6 +25,5 @@ seo:
     - name: 'twitter:description'
       value: Phasellus in ante vitae nibh porttitor tempus vitae ut ante
 layout: post
-title: Marblegum FAQ from homeowners
 ---
 Visit <https://blog.renohoot.sg/marblegum-faq-from-homeowners> for actual blog post on Marblegum FAQ from homeowners.
