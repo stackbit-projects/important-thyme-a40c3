@@ -6,7 +6,7 @@ excerpt: >-
   control job.  So what should we do here? Glad you ask, in the below section,
   we’ll be looking at the most common problem that can occur in a marblegum
   grout job, and we can check for them.
-date: '2020-08-22'
+date: '2020-06-22'
 thumb_img_path: images/art.svg
 thumb_img_alt: Geometric pattern
 seo:
