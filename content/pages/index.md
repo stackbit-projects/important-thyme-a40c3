@@ -25,7 +25,7 @@ sections:
       what new owners would need to know.
     image: /images/marble.jpg
     image_alt: test
-  - title: lorem-ipsum
+  - title: Popular Post
     section_id: lorem-ipsum
     has_more_link: true
     more_link_text: lorem-ipsum
