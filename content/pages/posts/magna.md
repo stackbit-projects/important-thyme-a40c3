@@ -1,7 +1,8 @@
 ---
 subtitle: >-
-  Knowing the difference between Marble Gum vs Grout shield vs Acrylic/Epoxy
-  Grout
+  In this post our team went into forums, chatgroups, social media to research
+  and pick out frequent questions that homeowners (potential Marblegum owners)
+  are asking.
 excerpt: Marble gum? Acrylic grout? Epoxy grout? Grout shielding?
 date: '2020-09-04'
 thumb_img_path: images/art.svg
