@@ -26,6 +26,6 @@ seo:
     - name: 'twitter:description'
       value: Phasellus in ante vitae nibh porttitor tempus vitae ut ante
 layout: post
-title: Marble Gum vs Grout shield vs Acrylic/Epoxy Grout
+title: Marblegum FAQ from homeowners
 ---
 Visit <https://blog.renohoot.sg/marble-gum-vs-grout-shield-vs-acrylicepoxy-grout> for actual blog post on Marble Gum vs Grout shield vs Acrylic/Epoxy Grout.
