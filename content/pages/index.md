@@ -27,7 +27,7 @@ sections:
     image_alt: test
   - title: Popular Post
     section_id: lorem-ipsum
-    has_more_link: true
+    has_more_link: false
     more_link_text: lorem-ipsum
     type: section_posts
 seo:
