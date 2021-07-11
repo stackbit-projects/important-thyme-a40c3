@@ -25,10 +25,6 @@ sections:
       what new owners would need to know.
     image: /images/marble.jpg
     image_alt: test
-  - title: Popular Post
-    has_more_link: false
-    more_link_text: lorem-ipsum
-    type: section_posts
 seo:
   title: Stackbit Vanilla Theme
   description: The preview of the Vanilla theme
