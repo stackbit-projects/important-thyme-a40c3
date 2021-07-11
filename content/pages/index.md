@@ -39,7 +39,7 @@ seo:
       value: Marblegum world
       keyName: property
     - name: 'og:description'
-      value: The preview of the Vanilla theme
+      value: Dive into the world of Marblegum
       keyName: property
     - name: 'og:image'
       value: images/vanilla-preview.png
