@@ -29,7 +29,7 @@ sections:
     has_more_link: false
     type: section_posts
 seo:
-  title: Stackbit Vanilla Theme
+  title: Marblegum world
   description: The preview of the Vanilla theme
   extra:
     - name: 'og:type'
