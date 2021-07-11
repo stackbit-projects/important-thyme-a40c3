@@ -1,9 +1,11 @@
 ---
 title: Marble gum grout - what can go wrong?
 excerpt: >-
-  Phasellus in ante vitae nibh porttitor tempus vitae ut ante. Vestibulum
-  blandit dolor elementum viverra. Sed quat a diam, aliquet tempus felis.
-  Phasellus et magna vitae nibh porttitor tempus vitae.
+  Does the above image scare you? No? Well you are not wrong, but you should be
+  a little concern as this is the result of a vendor doing a subpar quality
+  control job.  So what should we do here? Glad you ask, in the below section,
+  we’ll be looking at the most common problem that can occur in a marblegum
+  grout job, and we can check for them.
 date: '2016-08-22'
 thumb_img_path: images/art.svg
 thumb_img_alt: Geometric pattern
