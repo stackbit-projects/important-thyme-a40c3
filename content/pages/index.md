@@ -13,7 +13,7 @@ sections:
     type: section_content
     content: >
       Here we'll be showcasing a list of articles that are of relevance to
-      Marblegum. This should help you get kick started.
+      Marblegum.
 
 
       ### The original blog articles are popular but content would change
