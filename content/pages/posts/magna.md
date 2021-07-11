@@ -8,7 +8,6 @@ excerpt: >-
   and pick out frequent questions that homeowners (potential Marblegum owners)
   are asking.
 date: '2020-09-04'
-thumb_img_path: images/art.svg
 thumb_img_alt: Geometric pattern
 seo:
   title: Magna etiam sed lorem ipsum dolor amet
