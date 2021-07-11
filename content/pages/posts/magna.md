@@ -3,7 +3,7 @@ subtitle: >-
   Knowing the difference between Marble Gum vs Grout shield vs Acrylic/Epoxy
   Grout
 excerpt: Marble gum? Acrylic grout? Epoxy grout? Grout shielding?
-date: '2016-09-04'
+date: '0002-09-04'
 thumb_img_path: images/art.svg
 thumb_img_alt: Geometric pattern
 seo:
