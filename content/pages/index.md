@@ -30,7 +30,7 @@ sections:
     type: section_posts
 seo:
   title: Marblegum world
-  description: The preview of the Vanilla theme
+  description: Dive into the world of Marblegum
   extra:
     - name: 'og:type'
       value: website
