@@ -3,10 +3,6 @@ subtitle: >-
   In this post our team went into forums, chatgroups, social media to research
   and pick out frequent questions that homeowners (potential Marblegum owners)
   are asking.
-excerpt: >-
-  In this post our team went into forums, chatgroups, social media to research
-  and pick out frequent questions that homeowners (potential Marblegum owners)
-  are asking.
 date: '2020-09-04'
 thumb_img_alt: Geometric pattern
 seo:
