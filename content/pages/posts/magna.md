@@ -29,4 +29,4 @@ seo:
 layout: post
 title: Marblegum FAQ from homeowners
 ---
-Visit <https://blog.renohoot.sg/marble-gum-vs-grout-shield-vs-acrylicepoxy-grout> for actual blog post on Marble Gum vs Grout shield vs Acrylic/Epoxy Grout.
+Visit <https://blog.renohoot.sg/marblegum-faq-from-homeowners> for actual blog post on Marblegum FAQ from homeowners.
