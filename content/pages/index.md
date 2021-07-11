@@ -16,8 +16,8 @@ sections:
       Marblegum.
 
 
-      ### The original blog articles are popular but content would change
-      overtime. Please make sure to check back regularly.
+      ### The original articles' content would change overtime. Please make sure
+      to check back regularly.
 
 
       Sourcing from around the world and particularity in Singapore, this list
