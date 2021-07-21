@@ -48,6 +48,7 @@ export default class Body extends React.Component {
                     <meta name="viewport" content="width=device-width, initial-scale=1" />
                     <meta name="google" content="notranslate" />
                     <meta name="google-site-verification" content="99zJ4rv_STVq9HEf8Tt_Q5cnVTmYWMA_0uy9_x-BO7g" />
+                    <meta name="google-site-verification" content="Wq3KxvQ6U1BpwLLMF6OuxqmEpNKw0P4Ry8L3g-_-A0k" />
                     <meta name="description" content={seoDescription} />
                     {!_.isEmpty(seoRobots) && <meta name="robots" content={seoRobots} />}
                     {seoExtra}
